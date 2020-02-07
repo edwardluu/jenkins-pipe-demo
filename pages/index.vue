@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        test-jenkins
+        Test Jenkins
       </h1>
       <h2 class="subtitle">
-        My divine Nuxt.js project
+        Hello Word
       </h2>
       <div class="links">
         <a
